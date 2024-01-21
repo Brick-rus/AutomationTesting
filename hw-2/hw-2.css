@@ -1,0 +1,24 @@
+body {
+	background: #35E3B8;
+}
+
+.big {
+	display: grid;
+	grid-template-columns: 49% 2% 49%;
+	
+}
+
+
+li {
+	font-weight: bold;
+
+}
+h1, h3 {
+	text-align:center;
+}
+
+ul {list-style-type: square;}
+
+ul:hover {
+	background-color: #16E391;
+}
