@@ -1,0 +1,33 @@
+body {
+	background: gray;
+}
+
+div {
+	background: lightgoldenrodyellow;
+    width: 600px;
+    margin-bottom: 50px;
+}
+
+form{
+	width: 500px;
+	margin-bottom: 50px;
+}
+
+input, select, button {
+    margin-left: 50px;
+    background-color: #303245;
+    border-radius: 3px;
+    border: 0;
+    box-sizing: border-box;
+    color: rgba(0, 97, 138, 0.8);
+    font-family: sans-serif;
+    font-size: 18px;
+    height: 40px;
+    outline: 0;
+    padding-left: 6px;
+    padding: auto;
+    width: 500px;
+    background-color: #FFFFFF;
+
+  }
+
